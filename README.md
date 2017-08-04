@@ -1,6 +1,6 @@
 # GPU Computing
 
-Here you’ll find notes on accelerating computing with graphics processing units. I attended a [course](http://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/spurzem/lehre/SS17/cuda/cuda.php.en) given by Rainer Spurzem at Heidelberg University in August 2017. A good resource is [„CUDA by example“](https://developer.nvidia.com/cuda-example) by Jason Sanders and Edward Kandrot. While CUDA (used in the course) is proprietary software from NVIDIA, there is the OpenSource alternative OpenCL. There’s also a [nice free course on parallel computing with CUDA by NVIDIA on UDACITY](https://www.udacity.com/course/intro-to-parallel-programming--cs344), make sure to check it out :D
+Here you’ll find notes on accelerating computing with graphics processing units. I attended a [course](http://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/spurzem/lehre/SS17/cuda/cuda.php.en) given by Rainer Spurzem at Heidelberg University in August 2017. A good resource is [„CUDA by example“](https://developer.nvidia.com/cuda-example) by Jason Sanders and Edward Kandrot. While CUDA (used in the course) is proprietary software from NVIDIA, there is the OpenSource alternative OpenCL. There’s also a [nice free course on parallel computing with CUDA by NVIDIA on UDACITY](https://www.udacity.com/course/intro-to-parallel-programming--cs344) with [this repo on github](https://github.com/udacity/cs344), make sure to check it out :D
 
 ![cuda](https://user-images.githubusercontent.com/16541141/28874333-b6a001d8-7791-11e7-8652-068bf8bff845.jpg)
 
